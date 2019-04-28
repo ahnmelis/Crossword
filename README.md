@@ -1,4 +1,4 @@
-# hw4-ahnmelis
-hw4-ahnmelis created by GitHub Classroom Melissa Ahn USCID: 7404687242 email: ahnmelis@usc.edu
-
-To run server, run GameServer.java once, and then for each client, run GameClient.java. The game should work as the homework instructions state. I put some test files into the gamedata folder as well.
+# Multi-Player Crossword Puzzle Game
+Run the GameServer first and then run GameClient as necessary for each player.
+Play by yourself or with 1-2 other players.
+3 files are preloaded in gamedata folder.
